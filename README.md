@@ -12,5 +12,3 @@ This project created to help resercher who is working on accelerometer, IMU, INS
 
 * Read all data on selected serial connection port
 * Plot 3-axis acceleration graph
-
-[Kies Research, Development and Engineering](http://kiesrd.com/ "Kies RD") 
